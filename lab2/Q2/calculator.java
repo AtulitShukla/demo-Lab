@@ -1,6 +1,6 @@
 class calculator
 {
-//i have added through git
+//I have added throug git
 public static void main(String args[])
 {	double a,b;
 	a= Double.parseDouble(args[0]);
